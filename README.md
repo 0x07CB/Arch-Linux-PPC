@@ -14,3 +14,6 @@ The packages and PKGBUILDs are currently being tested with an old Arch Linux ins
 Why this effort?
 
 Unfortunately, there's only Debian Sid and Gentoo that are currently active and supported PowerPC ports for Macintosh and similar computers, both of which are quite outdated or buggy. Note: **Debian 8 was the last release to support PPC32** I want to remedy this. Note: **This isn't quite true anymore, Gentoo is one of the most up to date distros for PPC but there's also Void Linux, and Debian Sid is PPC64el only while Gentoo works on all PPC architectures to my knowledge.**
+
+# Active PPC port of Arch Linux
+This port seems quite active https://github.com/kth5/archpower
