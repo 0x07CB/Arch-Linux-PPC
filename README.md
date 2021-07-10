@@ -1,6 +1,7 @@
 # Arch Linux PPC
 
 **Translation from German to English, and added notes from me**
+
 Welcome to the Arch Linux PPC Project!
 This is an attempt to revive the old ArchPPC project from 2012 by Danimoth and kth5. Note: **This hasn't been updated in years, however I want to preserve it because it may be useful.**
 
